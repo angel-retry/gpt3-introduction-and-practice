@@ -13,8 +13,8 @@
 
 ## 三、 專案連結
 透過vercel將專案部署上去，以下為專案連結:
-![https://gpt3-introduction-and-practice.vercel.app/](https://gpt3-introduction-and-practice.vercel.app/)
+**[https://gpt3-introduction-and-practice.vercel.app/](https://gpt3-introduction-and-practice.vercel.app/)**
 
 ## 四、 專案參考
 感謝這影片提供react專案練習。
-![Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course](https://www.youtube.com/watch?v=F627pKNUCVQ)
+**[Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course](https://www.youtube.com/watch?v=F627pKNUCVQ)**
